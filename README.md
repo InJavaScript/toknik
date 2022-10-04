@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<video src="https://edge.sos-ch-gva-2.exoscale-cdn.com/web/photowall/index/v1.mp4" controls="controls" width="300" height="200">您的浏览器不支持播放该视频！</video>
+GitHub is a place where dreams set sail.
+
